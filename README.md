@@ -29,7 +29,7 @@
 
 ## Class Diagram
 
-![Class Diagram]()
+![Class Diagram](https://github.com/sahil-repos/bookmytix/blob/main/assets/class%20Diagram.PNG)
 
 
 
